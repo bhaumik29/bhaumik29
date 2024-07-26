@@ -16,7 +16,14 @@
 <a href="https://skillicons.dev" margin-bottom=20px>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,mongodb,express,nodejs,firebase,postman,vscode,bootstrap,spring,discord,eclipse,npm" />
 </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaumik29&show_icons=true&locale=en&layout=compact" alt="bhaumik29" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaumik29&show_icons=true&locale=en" alt="bhaumik29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaumik29&" alt="bhaumik29" /></p>
+<h3 align="left">Statistics</h3>
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaumik29&show_icons=true&locale=en&layout=compact" alt="bhaumik29" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaumik29&show_icons=true&locale=en" alt="bhaumik29" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaumik29&" alt="bhaumik29" /></p>
+
+
+
