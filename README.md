@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhaumik Lodhia</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 💬 Ask me about **Designing Backend Systems | Databases | MERN Stack | Spring & Spring Boot**
+- 💬 Ask me about **Designing Backend Systems | Databases | Spring & Spring Boot | MERN Stack
 
 - 📫 How to reach me **bhaumiklodhia@gmail.com**
 
