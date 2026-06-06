@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhaumik Lodhia</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 💬 Ask me about **Designing Backend Systems | Spring & Spring Boot | REST APIs | Databases | SQL | React
+- 💬 Ask me about **Designing Backend Systems | Spring & Spring Boot | Node.js | REST APIs | Databases | SQL | React
 
 - 📫 How to reach me **bhaumiklodhia@gmail.com**
 
